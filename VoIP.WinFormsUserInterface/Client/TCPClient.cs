@@ -71,6 +71,7 @@ namespace TIPClient
                     {
                         break;
                     }
+                    // test1
                     message = new Packet(networkStream);
                     received_messages.Add(message);
                     AnalyzeMessage(ref endConnection, message, networkStream);
