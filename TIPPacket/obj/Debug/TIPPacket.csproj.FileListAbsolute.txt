@@ -1,0 +1,6 @@
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\bin\Debug\TIPPacket.dll
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\bin\Debug\TIPPacket.pdb
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\obj\Debug\TIPPacket.csprojAssemblyReference.cache
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\obj\Debug\TIPPacket.csproj.CoreCompileInputs.cache
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\obj\Debug\TIPPacket.dll
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\TIPPacket\obj\Debug\TIPPacket.pdb

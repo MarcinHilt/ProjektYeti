@@ -1,0 +1,12 @@
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Release\VoIP.TcpSignalizationLibrary.dll
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Release\VoIP.TcpSignalizationLibrary.pdb
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.csprojAssemblyReference.cache
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.dll
+C:\Users\morsz\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.pdb
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Release\VoIP.TcpSignalizationLibrary.dll
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Release\VoIP.TcpSignalizationLibrary.pdb
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.csprojAssemblyReference.cache
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.dll
+C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Release\VoIP.TcpSignalizationLibrary.pdb

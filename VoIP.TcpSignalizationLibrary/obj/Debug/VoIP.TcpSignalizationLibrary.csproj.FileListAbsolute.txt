@@ -1,0 +1,6 @@
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Debug\VoIP.TcpSignalizationLibrary.dll
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\bin\Debug\VoIP.TcpSignalizationLibrary.pdb
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Debug\VoIP.TcpSignalizationLibrary.csprojAssemblyReference.cache
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Debug\VoIP.TcpSignalizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Debug\VoIP.TcpSignalizationLibrary.dll
+C:\Users\jan\source\repos\SzczepaniakJ\TIP_VoIP\VoIP.TcpSignalizationLibrary\obj\Debug\VoIP.TcpSignalizationLibrary.pdb
