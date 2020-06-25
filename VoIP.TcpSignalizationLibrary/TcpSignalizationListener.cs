@@ -16,7 +16,7 @@ namespace VoIP.TcpSignalizationLibrary
         private Task listenerTask;
 
         public event Action<TcpSignalizationClient> OnNewClientConnected;
-        ..
+        //sds
         public void StartListening(int port)
         {
             if (listener != null)
