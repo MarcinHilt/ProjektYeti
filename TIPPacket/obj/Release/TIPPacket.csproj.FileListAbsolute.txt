@@ -10,3 +10,9 @@ C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\TIPPacket\obj\Release\TIP
 C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\TIPPacket\obj\Release\TIPPacket.csproj.CoreCompileInputs.cache
 C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\TIPPacket\obj\Release\TIPPacket.dll
 C:\Users\inato\Desktop\Tip_proj2\source\repos\TIP_VoIP\TIPPacket\obj\Release\TIPPacket.pdb
+C:\Users\inato\Source\Repos\Test1\TIPPacket\bin\Release\TIPPacket.dll
+C:\Users\inato\Source\Repos\Test1\TIPPacket\bin\Release\TIPPacket.pdb
+C:\Users\inato\Source\Repos\Test1\TIPPacket\obj\Release\TIPPacket.csprojAssemblyReference.cache
+C:\Users\inato\Source\Repos\Test1\TIPPacket\obj\Release\TIPPacket.csproj.CoreCompileInputs.cache
+C:\Users\inato\Source\Repos\Test1\TIPPacket\obj\Release\TIPPacket.dll
+C:\Users\inato\Source\Repos\Test1\TIPPacket\obj\Release\TIPPacket.pdb
